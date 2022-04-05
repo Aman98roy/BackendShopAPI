@@ -1,0 +1,18 @@
+[
+   {
+        "name" : "Fan" ,
+        "price" : 50,
+        "dedescription" : "Good Wind",
+        "ratings" : 5,
+        "images" : [{
+            "public_id" : "psdd",
+            "url" : "http://dd"
+        }],
+        "category" : "elctronics",
+        "seller" : "Laptop",
+        "stock" : 50,
+        "numOfReviews" :32,
+        "reviews" : []
+    }
+   
+]
